@@ -1,0 +1,3 @@
+login       Djangoadmin
+E-mail      Djangoadmin@example.com
+password    admin
